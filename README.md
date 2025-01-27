@@ -19,6 +19,8 @@ Detects user location coordinates to provide local weather data.
 Weather API:
 
 Fetches weather data for any city worldwide by integrating city name and country.
+# Try it out
+https://skyviewfinder.netlify.app/ 
 
 
 
